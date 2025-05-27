@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋🏾! I am Ayana Scott-Elliston, a Data Analyst 🖥️ and Biologist 🧪 from the United States of America.
 
-<!--
-**For7the7Research/For7the7Research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ascottelliston/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayana.scottelliston@gmail.com)
+[![BlueSky](https://img.shields.io/badge/-BlueSky-white?style=flat&logo=BlueSky&logoColor=blue)](https://bsky.app/profile/ayana-scottell.bsky.social)
 
-Here are some ideas to get you started:
+<img width="55%" align="right" src="https://github.com/user-attachments/assets/382235f4-b520-49cf-a330-d266b5914f7e"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a professional Data Analyst who recently completed the SavvyCoders: Data Analysis + Python Bootcamp. I have over 10 years of statistical experience transforming raw science data into meaningful insights.
+With learning Python, SQL, Git, Github, and Tableau, I can clean and visualize the data more effectively. 
+Passionate about solving complex data problems.
+Here's a bit about what I do and what I love in the realm of data engineering.
+
+<p>
+
+🛠 **Tech Stack** 🛠
+
+Here are some of the technologies I've worked with:
+
+  * **Programming Languages:** Python, SQL
+  * **Statistical Languages:** R, Excel
+  * **Version Control:** Git, Github
+  * **Documentation:** Confluence
+  * **Project Management:** Jira
+  * **Data Visualization/BI Tools:** Tableau
+
+
+💬 **Ask me anything**, I am happy to assist.
+
+📫 How to reach me: **ayana.scottelliston3@gmail.com**
+
+</p>
+
+🔭 I’m currently working on **Coursera Google Certifications**
+
+## Recent Project
+
+### Chronic Diseases & their Indicators in the United States (2019-2022)
+
+[GitHub Repository]() |
