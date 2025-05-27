@@ -33,10 +33,12 @@ Here are some of the technologies I've worked with:
 
 🔭 I’m currently working on **Coursera Google Certifications**
 
+<p align ="center">
+ <img src="https://www.conceptdraw.com/How-To-Guide/picture/Health-Sciences-Public-Health.png" alt="drawing" width="600"/>
+</p>
+
 <p>
-
-<img src="https://www.conceptdraw.com/How-To-Guide/picture/Health-Sciences-Public-Health.png" alt="drawing" width="600"/>
-
+ 
 ## Recent Project
 
 ### Chronic Diseases & their Indicators in the United States (2019-2022)
@@ -56,5 +58,10 @@ Methodology & Skills Applied:
 * SQL (SQLite): Data assessment and alternation
 * Python (Pandas, NumPy): Data Cleaning, Data Analysis, Data assessment
 * Tableau: Developed an interactive story composed of multiple dashboards demonstrating the prevalence of multiple chronic diseases in the United States
+
+Findings & Next Steps:
+
+* Missouri is not faring much better than the state with the highest average prevalence for all chronic health conditions, West Virginia.
+* Shall select one chronic health condition and research into potential environmental factors that could be contributing to the condition.
 
 </p>
