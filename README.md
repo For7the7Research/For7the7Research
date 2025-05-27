@@ -33,8 +33,28 @@ Here are some of the technologies I've worked with:
 
 🔭 I’m currently working on **Coursera Google Certifications**
 
+<p>
+
+<img src="https://www.conceptdraw.com/How-To-Guide/picture/Health-Sciences-Public-Health.png" alt="drawing" width="600"/>
+
 ## Recent Project
 
 ### Chronic Diseases & their Indicators in the United States (2019-2022)
 
-[GitHub Repository]() |
+[GitHub Repository](https://github.com/For7the7Research/Capstone.git) | [Tableau Presentation](https://public.tableau.com/app/profile/ayana.scott.elliston/viz/Capstone_Presentation_17482711887780/ChronicDisease?publish=yes) | [Presentation to be Uploaded]
+
+For my Savvy Coders Data Analytics + Python Bootcamp project, I analyzed Chronic Diseases in the United States from CDC data ranging from 2019 to 2022. What started as an investigation into Asthma prevalence in the United States turned into a deep dive into the startling prevalence of a multitude of Chronic Diseases throughout the United States.
+
+Key Questions & Objectives:
+
+What are the chronic diseases in the United States?
+What are the prevalences for these chronic diseases?
+
+Methodology & Skills Applied:
+
+* Excel: Data wrangling
+* SQL (SQLite): Data assessment and alternation
+* Python (Pandas, NumPy): Data Cleaning, Data Analysis, Data assessment
+* Tableau: Developed an interactive story composed of multiple dashboards demonstrating the prevalence of multiple chronic diseases in the United States
+
+</p>
