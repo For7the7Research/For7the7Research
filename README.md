@@ -43,7 +43,7 @@ Here are some of the technologies I've worked with:
 
 ### Chronic Diseases & their Indicators in the United States (2019-2022)
 
-[GitHub Repository](https://github.com/For7the7Research/Capstone.git) | [Tableau Presentation](https://public.tableau.com/app/profile/ayana.scott.elliston/viz/Capstone_Presentation_17482711887780/ChronicDisease?publish=yes) | [Presentation to be Uploaded]
+[GitHub Repository](https://github.com/For7the7Research/Capstone.git) | [Tableau Presentation](https://public.tableau.com/app/profile/ayana.scott.elliston/viz/Capstone_Presentation_17482711887780/ChronicDisease?publish=yes) | [Presentation](https://youtu.be/qB3ZT2aaFco?si=5xRzUKvfCVQFh-99)
 
 For my Savvy Coders Data Analytics + Python Bootcamp project, I analyzed Chronic Diseases in the United States from CDC data ranging from 2019 to 2022. What started as an investigation into Asthma prevalence in the United States turned into a deep dive into the startling prevalence of a multitude of Chronic Diseases throughout the United States.
 
